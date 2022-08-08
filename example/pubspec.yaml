@@ -1,5 +1,7 @@
 name: equalizer_example
 description: Demonstrates how to use the equalizer plugin.
+homepage: https://github.com/Khuntarpit/equializer_flutter
+repository: https://github.com/Khuntarpit/equializer_flutter
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.

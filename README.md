@@ -1,4 +1,4 @@
-# equalizer
+# equalizer_flutter
 
 A Flutter plugin to open the device equalizer. You can also create a custom equalizer for Android.
 
