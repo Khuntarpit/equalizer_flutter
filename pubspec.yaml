@@ -1,5 +1,5 @@
 name: equalizer_flutter
-description: A new Flutter project.
+description: A Flutter plugin to open device equalizer. You can also create a custom equalizer for Android.
 version: 0.0.1
 homepage: https://github.com/Khuntarpit/equializer_flutter
 repository: https://github.com/Khuntarpit/equializer_flutter
